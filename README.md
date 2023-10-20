@@ -40,8 +40,7 @@ The project includes the Python script that can be used as a cronjob with your G
 │   └── process_data.py                     -- Python script to process the data collected by the run.py script
 └── data                                -- Collected data from Google Maps API
     ├── traffic_flow.json                   -- Preprocessed data obtained through the API
-    ├── processed_data.csv                  -- Google Maps data after being processed
-    └── dummy.csv                           -- Dummy data
+    └── processed_data.csv                  -- Google Maps data after being processed
 
 
 ### Licensing  <a name="licensing"></a>
