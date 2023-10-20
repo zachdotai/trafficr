@@ -41,7 +41,7 @@ The project includes the Python script that can be used as a cronjob with your G
 └── data                                -- Collected data from Google Maps API
     ├── traffic_flow.json                   -- Preprocessed data obtained through the API
     └── processed_data.csv                  -- Google Maps data after being processed
-
+```
 
 ### Licensing  <a name="licensing"></a>
 Feel free to use the code here as you would like but please don't forget to mention our project!
