@@ -5,7 +5,7 @@ from time import localtime, sleep, strftime
 
 import os
 
-API_KEY = os.getenv('API_KEY')
+API_KEY = os.getenv('GOOGLE_MAPS_API_KEY')
 BASE_URL = "https://maps.googleapis.com/maps/api/directions/json?"
 TIME_INTERVAL_IN_SECONDS = 1200 # every 20 minutes
 
